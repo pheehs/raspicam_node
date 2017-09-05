@@ -89,7 +89,7 @@ make sure that the camera cable is properly seated on both ends, and that the ca
 
 Topics:
 
-* `/raspicam_node/compressed`:
+* `/raspicam_node/image/compressed`:
   Publishes `sensor_msgs/CompressedImage` with jpeg from the camera module.
 
 * `/raspicam_node/camera_info`:
